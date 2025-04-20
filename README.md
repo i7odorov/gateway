@@ -10,7 +10,7 @@
 
 
 - Clone the project 
-  - https://github.com/i7odorov/gateway.git
+  - git clone https://github.com/i7odorov/gateway.git
 - Build
   - mvn clean install
 - Run
