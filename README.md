@@ -68,3 +68,7 @@ curl --location 'http://localhost:8080/xml/command' \
 <period>24</period>
 </history>
 </request>'
+
+### Notes
+- Fixer API key has a limitation of 100 request
+- Fixer API free plan is working only with base currency EUR
